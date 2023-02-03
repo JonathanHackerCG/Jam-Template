@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Configuration - Please edit these!",
-    "path": "folders/Library/Scribble/Configuration - Please edit these!.yy",
+    "path": "folders/Libraries/Scribble/Configuration - Please edit these!.yy",
   },
 }

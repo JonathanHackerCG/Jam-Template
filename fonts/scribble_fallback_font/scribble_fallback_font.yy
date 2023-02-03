@@ -133,6 +133,6 @@
   "maintainGms1Font": false,
   "parent": {
     "name": "(System - don't call these functions)",
-    "path": "folders/Library/Scribble/(System - don't call these functions).yy",
+    "path": "folders/Libraries/Scribble/(System - don't call these functions).yy",
   },
 }

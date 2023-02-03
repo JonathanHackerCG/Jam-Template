@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Deprecated",
-    "path": "folders/Library/Scribble/(System - don't call these functions)/Deprecated.yy",
+    "path": "folders/Libraries/Scribble/(System - don't call these functions)/Deprecated.yy",
   },
 }

@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Animation",
-    "path": "folders/Library/Scribble/Animation.yy",
+    "path": "folders/Libraries/Scribble/Animation.yy",
   },
 }

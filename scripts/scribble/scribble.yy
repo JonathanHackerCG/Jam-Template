@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Scribble",
-    "path": "folders/Library/Scribble.yy",
+    "path": "folders/Libraries/Scribble.yy",
   },
 }

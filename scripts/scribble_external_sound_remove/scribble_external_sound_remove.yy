@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Miscellaneous",
-    "path": "folders/Library/Scribble/Miscellaneous.yy",
+    "path": "folders/Libraries/Scribble/Miscellaneous.yy",
   },
 }

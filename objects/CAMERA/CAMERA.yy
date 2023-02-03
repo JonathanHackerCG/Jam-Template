@@ -31,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Library",
-    "path": "folders/Library.yy",
+    "name": "Libraries",
+    "path": "folders/Libraries.yy",
   },
 }

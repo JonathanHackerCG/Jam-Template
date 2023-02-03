@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Fonts",
-    "path": "folders/Library/Scribble/Fonts.yy",
+    "path": "folders/Libraries/Scribble/Fonts.yy",
   },
 }

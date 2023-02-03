@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Global Static Getters",
-    "path": "folders/Library/Scribble/(System - don't call these functions)/Global Static Getters.yy",
+    "path": "folders/Libraries/Scribble/(System - don't call these functions)/Global Static Getters.yy",
   },
 }
