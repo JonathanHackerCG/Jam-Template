@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "CG_Modules",
-    "path": "folders/Optional/CG_Modules.yy",
+    "path": "folders/Library/CG_Modules.yy",
   },
 }
