@@ -3,6 +3,14 @@
   "resourceVersion": "1.6",
   "name": "Jam-Template",
   "resources": [
+    {"id":{"name":"cg_drawing","path":"scripts/cg_drawing/cg_drawing.yy",},"order":0,},
+    {"id":{"name":"cg_function_queue","path":"scripts/cg_function_queue/cg_function_queue.yy",},"order":2,},
+    {"id":{"name":"cg_math","path":"scripts/cg_math/cg_math.yy",},"order":4,},
+    {"id":{"name":"cg_movement","path":"scripts/cg_movement/cg_movement.yy",},"order":5,},
+    {"id":{"name":"cg_vector","path":"scripts/cg_vector/cg_vector.yy",},"order":7,},
+    {"id":{"name":"cg_sorting","path":"scripts/cg_sorting/cg_sorting.yy",},"order":6,},
+    {"id":{"name":"cg_index_map","path":"scripts/cg_index_map/cg_index_map.yy",},"order":3,},
+    {"id":{"name":"cg_ds_print","path":"scripts/cg_ds_print/cg_ds_print.yy",},"order":1,},
     {"id":{"name":"rm_initialize","path":"rooms/rm_initialize/rm_initialize.yy",},"order":1,},
   ],
   "Options": [
@@ -21,7 +29,11 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_initialize","path":"rooms/rm_initialize/rm_initialize.yy",},},
   ],
-  "Folders": [],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"CG_Modules","folderPath":"folders/Libraries/CG_Modules.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"REQUIRED","folderPath":"folders/REQUIRED.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Libraries","folderPath":"folders/Libraries.yy","order":4,},
+  ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
